@@ -1,0 +1,15 @@
+************* Module cleaned_inventory_system_1
+cleaned_inventory_system_1.py:104:0: C0304: Final newline missing (missing-final-newline)
+cleaned_inventory_system_1.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+cleaned_inventory_system_1.py:9:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system_1.py:22:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system_1.py:30:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system_1.py:46:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system_1.py:58:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system_1.py:63:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system_1.py:70:0: C0116: Missing function or method docstring (missing-function-docstring)
+cleaned_inventory_system_1.py:80:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.31/10 (previous run: 9.83/10, -1.53)
+
